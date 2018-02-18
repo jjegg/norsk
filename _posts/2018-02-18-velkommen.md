@@ -6,6 +6,6 @@ description: "Mine norsk blogg først blogginnlegg"
 keywords: "velkommen, norsk, oslo, norway, blogg"
 ---
 
-## Velkommen
+## Hei, jeg heter Jonny.
 
-Hei. Velkommen til min Norsk blogg. Jeg skal skriver bare Norsk. 
+Hei. Velkommen til min Norsk blogg. Jeg skal skriver bare Norsk til lære.
