@@ -8,7 +8,7 @@ url: https://www.jonnygrifff.no/norsk # site url
 baseurl: "/norsk" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-XXXXX-XX
+google_analytics: UA-58630348-8
 repo: http://github.com/jjegg/norsk
 disqus_shortname: "hnbloggithub"
 twitter_username: ""
