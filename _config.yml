@@ -1,7 +1,6 @@
 
 # SEO settings
-title: "NORSK"
-title2: "Blogg" # default: ""
+title: "NORSKÆ˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘÷ÆÆ»»»»»˘: "≥÷/" # default: ""
 description: "Just another minimalist Jekyll theme for technical writing."
 keywords: "norsk, blogg, norwegian, learning, nature, oslo, norway, norwegian lifestyle, images, norwegian nature"
 url: https://www.jonnygrifff.no/norsk # site url
@@ -36,7 +35,7 @@ author:
   email    : griffin.jonnathan@gmail.com
   url      : https://www.jonnygrifff.no
   facebook : https://www.facebook.com/jonnygrifff
-  linkedin : http://linkedin.com/in/nrird
+  linkedin : http://linkedin.com/in/jonnathangriffin
 
 # social settings
 og_locale: "en_US"
