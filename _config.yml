@@ -1,7 +1,7 @@
 
 # SEO settings
-title: "NORSKÆ˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘÷ÆÆ»»»»»˘: "≥÷/" # default: ""
-description: "Just another minimalist Jekyll theme for technical writing."
+title: "Norskblogg"
+description: "En norsk blogg"
 keywords: "norsk, blogg, norwegian, learning, nature, oslo, norway, norwegian lifestyle, images, norwegian nature"
 url: https://www.jonnygrifff.no/norsk # site url
 baseurl: "/norsk" # apply repo name if use it under gh-pages branch
